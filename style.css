@@ -1,0 +1,119 @@
+body {
+    background-color: #aef0c4;
+    text-align: center;
+}
+
+.card {
+    display: inline-block;
+    width: 18%;
+    border: 4px solid #000000;
+    border-radius: 15px;
+    background-color: white;
+    padding: 0 0 20px 0;
+    margin: 0 6px 5px 0;
+
+}
+
+img {
+    width: 100%;
+    border-radius: 11px 11px 0px 0px;
+}
+
+.button {
+    background-color: #aef0c4;
+    text-decoration: none;
+    width: 100px;
+    display: inline-block;
+    border-radius: 20px;
+    color: #677267;
+}
+
+h2 {
+    font-size: 40px;
+    font-style: oblique;
+    color: #513482;
+}
+
+h1 {
+    font-size: 40px;
+    font-style: oblique;
+    color: #513482;
+    
+}
+
+.menu-item {
+    text-decoration: none;
+    font-size: 20px;
+    color: #812701;
+    border: 2px solid #882a02;
+    border-radius: 100px;
+    padding: 5px 10px;
+    margin: 0px 20px;
+    box-shadow: 5px 5px 4px #882a02;
+}
+
+caption {
+    margin-bottom: 20px;
+    font-size: 40px;
+    color: #4b0082;
+    text-shadow: 2px 2px 2px #725d87;
+}
+
+table {
+    width: 85%;
+    margin: 50px auto;
+    border-collapse: collapse;
+}
+
+td {
+    background-color: white;
+    padding: 30px 5px 10px 5px;
+    border-bottom: 1px dashed gray;
+    border-left: 1px dashed gray;
+    border-right: 1px dashed gray;
+}
+
+th {
+    padding: 70px 70px 70px 70px;
+    border-radius: 11px 11px 0px 0px;
+    color: white;
+}
+
+.basic {
+    background-color: #ff0f83;
+}
+
+.pro {
+    background-color: #0083f5;
+}
+
+.gold {
+    background-color: #6500de;
+}
+
+.platihum {
+    background-color: #fca105;
+}
+
+.table-button {
+    text-decoration: none;
+    width: 200px;
+    display: inline-block;
+    border-radius: 20px;
+    color: #ffffff;
+    padding: 20px;
+    box-shadow: 1px 3px 4px #787878;
+    border: 1px solid #000000;
+}
+
+.table-text {
+    box-shadow: 1px 3px 4px #787878;
+    padding: 15px 0px;
+    width: 80%;
+    margin: 0px auto 10px auto;
+}
+
+.tr-gray {
+    background-color: #bd1a1a;
+}
+
